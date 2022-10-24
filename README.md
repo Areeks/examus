@@ -2,7 +2,7 @@ The Examus is a free databases of questions!
 
 ### Getting Started
 
-* 1. Upload files to yours server WWW.
+* 1. Upload files to your server WWW.
 * 2. Create MySQL databases and import schema.sql file
 * 3. Change MySQL settings in: /assets/config/connectmysqlwsb.php
 * 4. Change Display settings in: /assets/config/configwsb.php
